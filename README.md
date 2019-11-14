@@ -1,0 +1,2 @@
+# naver_entertainment_talk
+naver_entertainment_talk
